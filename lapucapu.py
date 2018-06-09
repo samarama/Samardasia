@@ -12,7 +12,4 @@ zm1 = int(input())
 zm2 = int(input())
 <<<<<<< HEAD
 print("Wynik dodawania to liczba: ")
-=======
-print("Wynik dodawania to liczba: ")
->>>>>>> Branch1
-print(dodawanie(zm1, zm2))
+
