@@ -10,5 +10,5 @@ def dodawanie(a, b):
 get_help()
 zm1 = int(input())
 zm2 = int(input())
-print("Wynik to: ")
+print("Wynik dodawanka to: ")
 print(dodawanie(zm1, zm2))
